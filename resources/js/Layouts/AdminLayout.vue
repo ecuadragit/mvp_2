@@ -18,8 +18,8 @@
   <script setup>
   
     import { ref } from 'vue';
-    import Aside from '@/components/Aside/AsideAdmin.vue';
-    import Header from '@/components/Header.vue';
+    import Aside from '@/Components/Aside/AsideAdmin.vue';
+    import Header from '@/Components/Header.vue';
     
     import { usePermission } from "@/composables/permissions";
 
